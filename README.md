@@ -1,1 +1,2 @@
-# etch-a-sketch
+August 2, 2017:
+  The hardest part is getting started right?  My goal for the session was to get a solid foundation down in HTML/CSS/JS for creating a grid using divs.  I spent the last few days reading up on the different ways that effect can be achieved.  I opted to go with creating a table of divs inside of a larger div ('container').  The good news is that the tiny bit of code that I wrote is bug free.  The bad news is that I cannot seem to get the grid to visualize itself in the browser using CSS. I'm sure it's something that has a simple solution, but I didn't have much time to work with it today so I will leave that up to the next session.   

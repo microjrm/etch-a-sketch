@@ -1,0 +1,16 @@
+.container {
+  background-color = green;
+  height = 200px;
+  width = 200px;
+  border-width: = 2px;
+  display = block;
+}
+
+.table {
+  
+  border = 2px;
+  outline = 1px solid black;
+  height = 200px;
+  width = 200px;
+  margin = 5% auto;
+}
