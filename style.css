@@ -1,16 +1,52 @@
-.container {
-  background-color = green;
-  height = 200px;
-  width = 200px;
-  border-width: = 2px;
-  display = block;
+#container {
+	position: relative;
+	top: 30px;
+	outline:2px solid #000;
+	font-size: 0;
+	margin:auto;
+  height: 800px;
+  width: 800px;
+	padding: 0;
+	border: 200px;
+  border-color: red;
 }
 
-.table {
-  
-  border = 2px;
-  outline = 1px solid black;
-  height = 200px;
-  width = 200px;
-  margin = 5% auto;
+.grid {
+	margin:0;
+	padding:0;
+	border:none;
+	display:inline-block;
+  background-color: white;
+
+}
+.fadeGrid {
+  height: 40px;
+  width: 100px;
+  font-size: 15px;
+  font-family: monospace;
+}
+.blackGrid {
+  height: 40px;
+  width: 100px;
+  font-size: 15px;
+  font-family: monospace;
+}
+.clearGrid {
+  height: 40px;
+  width: 110px;
+  font-size: 15px;
+  font-family: monospace;
+}
+.randomGrid {
+  height: 40px;
+  width: 100px;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.words {
+  font-family: monospace;
+}
+body {
+  background-color: lightblue;
 }
